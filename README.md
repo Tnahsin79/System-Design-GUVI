@@ -1,6 +1,7 @@
 # System-Design-GUVI
 
 ## YOUTUBE tech stack
+![alt text](YouTube.png?raw=true "YouTube")
 
 ### Programming language
 #### 1) Python
